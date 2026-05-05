@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my GitHub profile! ![Checkmark](./checkmark.svg)
 
-<!--
-**Lukamyt0517/Lukamyt0517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **Lukamyt0517** 👋
 
-Here are some ideas to get you started:
+This is my personal GitHub profile repository. Thanks for visiting!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm just getting started on GitHub and learning how to use it! 🚀
+
+## My Projects
+
+- Coming soon...
+
+---
+
+**Made with ❤️ on GitHub**

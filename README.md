@@ -1,6 +1,6 @@
-# Welcome to my GitHub profile! !
+# Welcome to my GitHub profile! ![Checkmark](./checkmark.svg)
 
-Hello! I'm Lukamyt0517 [Checkmark](./checkmark.svg)
+Hello! I'm Lukamyt0517 
 
 This is my personal GitHub profile repository. Thanks for visiting!
 
